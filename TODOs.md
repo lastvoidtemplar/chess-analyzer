@@ -23,15 +23,14 @@
 ---
 
 ## 🏗 Project Setup & Infrastructure
-- [] Set up project structure 🏁  
-- [] Set up CI/CD with GitHub Actions 🚀  
+- [ ] Set up project structure  
+- [ ] Set up CI/CD with GitHub Actions  
 ---
 
 ## ✅ Completed Tasks
-- [x] Configure GitHub branch protection 🔐  
+- [x] Configure GitHub branch protection  
 
 ---
 
 ### 📌 Notes
 💡 *Use `- [ ]` for open tasks and `- [x]` for completed ones.*  
-💡 *Prioritize tasks with labels like `🚀 High Priority` or `💡 Nice to Have`.*  
