@@ -23,7 +23,7 @@
 ---
 
 ## 🏗 Project Setup & Infrastructure
-- [ ] Set up project structure  
+- [ ] Set up project structure
 - [ ] Set up CI/CD with GitHub Actions  
 ---
 
